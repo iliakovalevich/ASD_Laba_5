@@ -1,0 +1,11 @@
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.exe
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.deps.json
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.runtimeconfig.json
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.dll
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\bin\Debug\netcoreapp3.0\Laba_5_asd.pdb
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\obj\Debug\netcoreapp3.0\Laba_5_asd.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\obj\Debug\netcoreapp3.0\Laba_5_asd.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\obj\Debug\netcoreapp3.0\Laba_5_asd.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\obj\Debug\netcoreapp3.0\Laba_5_asd.dll
+C:\Users\Professional\source\repos\Laba_5_asd\Laba_5_asd\obj\Debug\netcoreapp3.0\Laba_5_asd.pdb
